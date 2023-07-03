@@ -1,0 +1,16 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "sad",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "safr",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "createserver": "^1.0.0",
+    "express": "^4.18.2"
+  }
+}
